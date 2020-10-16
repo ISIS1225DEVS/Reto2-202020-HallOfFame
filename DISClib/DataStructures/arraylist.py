@@ -17,6 +17,11 @@
  *
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ * Contribución de:
+ *
+ * Dario Correal
+ *
  """
 
 
@@ -27,6 +32,11 @@ assert config
 """
   Este módulo implementa una estructura de datos lineal,
   como un arreglo de apuntadores a los nodos de la lista.
+
+
+  Este código está basado en la implementación
+  propuesta por R.Sedgewick y Kevin Wayne en su libro
+  Algorithms, 4th Edition
 """
 
 
